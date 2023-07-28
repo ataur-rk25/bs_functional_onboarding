@@ -1,4 +1,5 @@
 <?php
+
     session_start();
     if (!isset($_SESSION['setup_completed'])) {
         include('setup.php');
