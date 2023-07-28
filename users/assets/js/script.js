@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
 
+    //select inputs
     var passwordInput = document.getElementById("password");
     var confirmInput = document.getElementById("confirm_password");
     var emailInput = document.getElementById("email");

@@ -1,4 +1,5 @@
 <?php
+
 include('db.php');
 // Create the 'users' table if it doesn't exist
 $create_table_query = "CREATE TABLE IF NOT EXISTS users (    

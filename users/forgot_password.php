@@ -2,6 +2,7 @@
   $title = 'Forgot Password';
   include('header.php');
 ?>
+
 <div class="container">
     <div class="row">
         <h2 class="pagetitle">Forgot Password</h2>

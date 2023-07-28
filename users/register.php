@@ -1,4 +1,5 @@
 <?php   
+
 // Display success or error messages if they are set in the session
   session_start();
   $title = 'Register';
